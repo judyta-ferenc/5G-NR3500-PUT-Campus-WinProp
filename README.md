@@ -76,7 +76,7 @@ Two scenarios were analysed:
 * **Loaded-Cell Network Scenario**
 
   #### Downlink Throughput Map
-  ![DL throughput map](screenshots/dl_throughput_map.png)
+  ![DL throughput map](screenshots/downlink_throughput_map.png)
 
   #### Cell Area Assignment Map
   ![Cell area map](screenshots/cell_area_map.png)
