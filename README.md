@@ -64,22 +64,16 @@ General antenna setup:
 | Sector 3 | 330° | 7° | 19.5 m |
 
 
-### 5. Simulation Scenarios & Results
+### 5. Simulation Results
 
-Two scenarios were analysed:
+#### RSRP Map
+![RSRP map](screenshots/rsrp_map.png)
 
-* **RSRP Coverage Scenario** 
+#### Downlink Throughput Map
+![DL throughput map](screenshots/downlink_throughput_map.png)
 
-  #### RSRP Coverage Map
-  ![RSRP map](screenshots/rsrp_map.png)
-
-* **Loaded-Cell Network Scenario**
-
-  #### Downlink Throughput Map
-  ![DL throughput map](screenshots/downlink_throughput_map.png)
-
-  #### Cell Area Assignment Map
-  ![Cell area map](screenshots/cell_area_map.png)
+#### Cell Area Map
+![Cell area map](screenshots/cell_area_map.png)
 
 
 ### 6. Observations
