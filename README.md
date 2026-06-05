@@ -1,6 +1,6 @@
 # 5G-NR3500-PUT-Campus-WinProp
 
-This project simulates 5G NR3500 TDD radio coverage and wave propagation for two shared Orange/T-Mobile base station sites in the area of the Poznan University of Technology campus and its nearby urban surroundings. The workflow includes preparing the urban model in WallMan, setting up the network in ProMan, and analyzing the simulation results.
+This project simulates 5G NR3500 TDD radio coverage and wave propagation for two shared Orange/T-Mobile base station sites in the area of the Poznan University of Technology campus and its nearby urban surroundings.
 
 | Base station | Location | Infrastructure | Technology |
 |---|---|---|---|
