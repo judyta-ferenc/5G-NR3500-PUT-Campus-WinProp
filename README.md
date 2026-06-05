@@ -24,7 +24,7 @@ The urban model was created in **WallMan** from OpenStreetMap vector data (`kamp
 
 ### 3. ProMan Network Planning Project
 
-A new network planning project was created in **ProMan** using the preprocessed urban database (`kampus_PP.oib`, not included due to GitHub file size limits).
+A new network planning project was created in **ProMan** using the preprocessed urban database (`kampus_PP.oib`).
 
 Key simulation parameters:
 * **Technology:** 5G NR
