@@ -84,7 +84,7 @@ General antenna setup:
 
 ### 6. Observations
 
-**RSRP Map:** The strongest signal levels are seen directly in front of the configured antenna sectors, especially in areas with LOS conditions. For example, around the base station at **ul. Jana Pawła II 14** in the northern part of the map, there are fewer buildings exceeding the base station antenna height compared to the area near **ul. Św. Rocha 9**. As a result, signal propagation is more effective in this area, with reduced shadowing and stronger coverage around the base station. In NLOS areas, the RSRP values drop. Overall, the use of two base stations improves the coverage of the analysed campus area.
+**RSRP Map:** The strongest signal levels are seen directly in front of the configured antenna sectors, especially in areas with LOS conditions. Around the base station at **ul. Jana Pawła II 14** in the northern part of the map, there are fewer buildings exceeding the base station antenna height compared to the area near **ul. Św. Rocha 9**. As a result, signal propagation is more effective in this area, with reduced shadowing and stronger coverage around the base station. In NLOS areas, the RSRP values drop. Overall, the use of two base stations improves the coverage of the analysed campus area.
 
 **Downlink Throughput Map:** The throughput levels follow the RSRP pattern: the highest values, up to about **1.9 Gbit/s**, appear in areas with stronger coverage and better LOS conditions. Medium values, around **300–700 Mbit/s**, are visible in the central part of the analysed area, while the lowest values, below about **150 Mbit/s**, occur in shadowed NLOS areas and farther from the antenna sectors.
 
