@@ -9,12 +9,12 @@ This project simulates 5G NR3500 TDD radio coverage and wave propagation for two
 
 
 ### 1. Input data sources
-* **OpenStreetMap** — map and urban area data used to prepare the simulation environment.
-* **BTSearch** — map used to locate base station positions.
-* **SI2PEM** — public database providing base station locations, technologies, frequency bands, and measurement reports (including antenna parameters such as azimuth, height, and downtilt).
+* **OpenStreetMap** – map and urban area data used to prepare the simulation environment.
+* **BTSearch** – map used to locate base station positions.
+* **SI2PEM** – public database providing base station locations, technologies, frequency bands, and measurement reports (including antenna parameters such as azimuth, height, and downtilt).
 * **Altair WinProp examples**
-  * `5G TDD n79 100 MHz.wst` — used as the closest air interface template, with the frequency set to 3500 MHz.
-  * `WiMax_3500MHz_60deg.apb` — used as an approximate 3500 MHz sector antenna pattern.
+  * `5G TDD n79 100 MHz.wst` – used as the closest air interface template, with the frequency set to 3500 MHz.
+  * `WiMax_3500MHz_60deg.apb` – used as an approximate 3500 MHz sector antenna pattern.
 
 
 ### 2. Urban Database Preparation and Preprocessing in WallMan
